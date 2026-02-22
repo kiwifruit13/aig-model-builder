@@ -296,9 +296,13 @@ README.md                                  # 本文件
 
 ## 许可证
 
+<<<<<<< HEAD
 GNU Affero General Public License v3.0 (AGPL-3.0)
 
 版权所有 (C) 2026 kiwifruit
+=======
+Mozilla Public License 2.0 (MPL-2.0)
+>>>>>>> 98098f469c5913b1d1f052fc6892584cb221a715
 
 详见项目根目录 [LICENSE](../LICENSE) 文件。
 
