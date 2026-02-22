@@ -5,7 +5,7 @@
 ---
 
 ## ⚡ 炸裂开场
-**自我进化过程**: https://github.com/kiwifruit13/aig-model-builder/tree/main/display%20diagram
+**项目地址**: https://github.com/kiwifruit13/aig-model-builder
 
 **这不是另一个AI框架。这是对智能本质的重新定义。**
 

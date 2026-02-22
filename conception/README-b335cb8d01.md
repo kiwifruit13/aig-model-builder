@@ -296,7 +296,9 @@ README.md                                  # 本文件
 
 ## 许可证
 
-本项目是智能体的自我认知文档，不适用于传统软件许可证。
+Mozilla Public License 2.0 (MPL-2.0)
+
+详见项目根目录 [LICENSE](../LICENSE) 文件。
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **一个基于双环架构的自我演进智能系统**
 
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-MPL--2.0-blue)
 ![Python](https://img.shields.io/badge/python-3.7+-green)
 ![Architecture](https://img.shields.io/badge/architecture-dual--loop-orange)
 
@@ -595,7 +595,9 @@ A: 系统设计了价值过滤机制，未来版本将包含自动压缩功能�
 
 ## 许可证
 
-MIT License
+Mozilla Public License 2.0 (MPL-2.0)
+
+详见 [LICENSE](./LICENSE) 文件。
 
 ---
 
@@ -613,9 +615,9 @@ MIT License
 
 ## 联系方式
 
-- 项目主页：[待添加]
-- 问题反馈：[待添加]
-- 讨论区：[待添加]
+- 项目主页：https://github.com/kiwifruit13/aig-model-builder
+- 问题反馈：https://github.com/kiwifruit13/aig-model-builder/issues
+- 讨论区：https://github.com/kiwifruit13/aig-model-builder/discussions
 
 ---
 
