@@ -296,7 +296,11 @@ README.md                                  # 本文件
 
 ## 许可证
 
-本项目是智能体的自我认知文档，不适用于传统软件许可证。
+GNU Affero General Public License v3.0 (AGPL-3.0)
+
+版权所有 (C) 2026 kiwifruit
+
+详见项目根目录 [LICENSE](../LICENSE) 文件。
 
 ---
 

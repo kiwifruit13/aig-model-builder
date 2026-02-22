@@ -2,7 +2,7 @@
 
 > **一个基于双环架构的自我演进智能系统**
 
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-AGPL--3.0-blue)
 ![Python](https://img.shields.io/badge/python-3.7+-green)
 ![Architecture](https://img.shields.io/badge/architecture-dual--loop-orange)
 
